@@ -98,6 +98,7 @@ var catView = {
 		this.catImgElem.src = currentCat.src;
 		this.catNameElem.textContent = currentCat.name;
 		this.counterElem.innerHTML = currentCat.counterText + currentCat.counter;
+		adminForm.style = "display:none";
 	}
 };
 
