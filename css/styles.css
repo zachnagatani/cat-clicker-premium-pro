@@ -1,0 +1,55 @@
+body {
+	font-size: 20px;
+	font-family: Helvetica, sans-serif;
+}
+
+input[text], label {
+	display: block;
+}
+
+a {
+	cursor: pointer;
+}
+
+li {
+	cursor: pointer;
+}
+
+.container {
+	max-width: 1020px;
+	margin: 0 auto;
+}
+
+.center {
+	margin: 0 auto;
+}
+
+img {
+	display: block;
+	cursor: pointer;
+}
+
+h1 {
+	display: inline;
+}
+
+.img-responsive {
+	max-width: 100%;
+	max-height: 500px;
+}
+
+.inline {
+	display: inline;
+}
+
+.text-center {
+	text-align: center;
+}
+
+.text-right {
+	text-align: right;
+}
+
+.hide {
+	display: none;
+}
